@@ -1,2 +1,3 @@
 # Sentiment Analysis on Amazon Reviews
 Amazon is an e-commerce site and many users provide review comments on this online site. This project focuses on sentiment analysis of Amazon customer reviews for amazon products. Many customers chose to provide their experience, opinion, feedback etc. Such product reviews are rich in information consisting of feedback shared by users. The review comments are useful to both other buyers and vendors. The sentiment analysis of customer reviews helps the vendor to understand user’s perspectives. They can further use the review comments and improve their products.
+This dataset is taken from data.world.
